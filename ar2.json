@@ -1,0 +1,8 @@
+{
+  "Name": "Ascend Reality",
+  "Author": "pulse!",
+  "MapId": "111850401920139",
+  "amountOfTargets_Static0": "20",
+  "afterStaticBot0": "pulse_plazaBot0",
+  "strafe_rule0": "true"
+}
